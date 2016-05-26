@@ -1,0 +1,64 @@
+body {
+  	padding-top: 50px;
+  	margin-left: 20%;
+  	margin-right: 20%;
+	font-family: Georgia;
+	font-size: 115%;
+}
+
+h1 {
+	font-family: Lucida Grande;
+}
+
+h1.heading {
+	text-align: right;
+	font-family: Georgia;
+}
+
+address.heading{
+	text-align: right;
+	font-family: Lucida Grande;
+	font-style: normal;
+}
+
+h2 {
+  	padding-top: 60px;
+	font-family: Lucida Grande;
+}
+
+
+img {
+	float: left;
+	width: 150px;
+	height: 150px;
+	border: 0;
+}
+
+ul.skills li {
+	display: inline;
+}
+
+div#nav {
+    top: 0px;
+    width: 60%;
+	position: fixed;
+	text-align: center;
+  	z-index: 9999;
+  	background-color: #00a087;
+}
+
+ul#menu li {
+	display: inline;
+}
+
+ul#menu li a{
+	background-color: black;
+    color: white;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 4px 4px 0 0;
+}
+
+ul#menu li a:hover {
+    background-color: orange;
+}
