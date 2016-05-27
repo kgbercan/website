@@ -14,4 +14,4 @@ Lofty goal: A reflection of me and of the work I am capable of
 
 ## Where you can see it
 
-[web.simmons.edu/~bercan/website/](web.simmons.edu/~bercan/website/)
+[web.simmons.edu/~bercan/website/](https://web.simmons.edu/~bercan/website/)
